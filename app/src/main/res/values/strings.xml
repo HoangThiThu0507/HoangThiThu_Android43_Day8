@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HoangThiThu_Android43_Day8</string>
+    <string name="etTitle">Title</string>
+    <string name="Title">Create New Note </string>
+    <string name="Save">SAVE</string>
+    <string name="etDescription">Discription</string>
+    <string name="tvRemind">Remind me at:</string>
+    <string name="time">14:20</string>
+    <string name="date">04/03/2016</string>
+    <string name="tvType">Type</string>
+    <string name="tvTag">Tags:  </string>
+    <string name="tvChooseTags">Android, VTC, FPT, Game</string>
+    <string name="tvWeeks">Weeks</string>
+    <string name="tvChooseWeeks">Mon, Thu, Sat</string>
+    <string name="tvTune">Tune</string>
+</resources>
